@@ -33,5 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassteles&layout=compact&theme=dark" />
 </p>
 
---- 
+---  
+
+<p align="center">
+  <img src="img/sonic classic.png" width="230" />
+</p>
 
