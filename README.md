@@ -29,7 +29,9 @@
 
 <p align="center">
   <img src="img/sonic classic.png" width="230" />
-</p>
+</p> 
+
+"Gotta Go Fast no aprendizado"
 
 
 
