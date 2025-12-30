@@ -25,14 +25,6 @@
   <img src="https://img.shields.io/github/stars/Lucassteles?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucassteles&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassteles&layout=compact&theme=dark" />
-</p>
-
 ---  
 
 <p align="center">
