@@ -26,12 +26,12 @@
 </p>
 
 ---  
-
+"Gotta Go Fast, aprendizado rápido como o Sonic"
 <p align="center">
   <img src="img/sonic classic.png" width="230" />
 </p> 
 
-"Gotta Go Fast no aprendizado"
+
 
 
 
