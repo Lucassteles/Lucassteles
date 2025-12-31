@@ -36,6 +36,8 @@
 ## 📫 Contato
 - GitHub: https://github.com/Lucassteles  
 - LinkedIn: https://www.linkedin.com/in/lucas-rocha-teles-1bb661323/
+- gmail: live_lucast@hotmail.com
+- email: lucas_teles500@hotmail.com
 
 ---
 
